@@ -16,10 +16,11 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Giuliano Cotrufo - Andrea Cavallaro - Dario Messina 
     </author>
-	<platform name="android" />
+	<platform name="android">
 	<config-file target="AndroidManifest.xml" parent="/manifest/application">
 	</config-file>
 	<access origin="*" />
+	</platform>
 	
 	
 
